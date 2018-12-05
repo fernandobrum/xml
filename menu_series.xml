@@ -1,0 +1,9 @@
+<dir>
+  <title>Género</title>
+  <link>file://genero_series.xml</link>
+</dir>
+
+<dir>
+  <title>Séries da TMDB</title>
+  <link>file://series_tmdb.xml</link>
+</dir>

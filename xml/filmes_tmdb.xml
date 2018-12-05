@@ -1,0 +1,26 @@
+<dir>
+  <title>TMDB Populares</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Atuais</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Altamente cotados</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Filmes de ação</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Coleção Star Wars</title>
+  <tmdb>collection/10</tmdb>
+</dir>
+
+
