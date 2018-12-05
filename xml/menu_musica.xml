@@ -1,9 +1,0 @@
-<dir>
-  <title>Concertos</title>
-  <link>file://concertos.xml</link>
-</dir>
-
-<dir>
-  <title>Música diversa</title>
-  <link>file://musica_diversa.xml</link>
-</dir>
