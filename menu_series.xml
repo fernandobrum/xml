@@ -1,9 +1,0 @@
-<dir>
-  <title>Género</title>
-  <link>https://raw.githubusercontent.com/fernandobrum/xml/master/genero_series.xml</link>
-</dir>
-
-<dir>
-  <title>Séries da TMDB</title>
-  <link>https://raw.githubusercontent.com/fernandobrum/xml/master/series_tmdb.xml</link>
-</dir>
