@@ -1,9 +1,9 @@
 <dir>
   <title>Género</title>
-  <link>file://genero_filmes.xml</link>
+  <link>https://raw.githubusercontent.com/fernandobrum/xml/master/genero_filmes.xml</link>
 </dir>
 
 <dir>
   <title>Filmes da TMDB</title>
-  <link>file://filmes_tmdb.xml</link>
+  <link>https://raw.githubusercontent.com/fernandobrum/xml/master/filmes_tmdb.xml</link>
 </dir>
