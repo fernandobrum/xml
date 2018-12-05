@@ -39,11 +39,3 @@
 <title>[COLOR yellow][B][I]Luisinha[/I][/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/fernandobrum/xml/master/filhota.xml</link>
 </dir>
-						  
-<plugin>
-<name>Testes</name>
-<link>plugin://plugin.video.jenplugin/?action=developer</link>
-<thumbnail></thumbnail>
-<summary>Testings</summary>
-</plugin>
-</xml>
