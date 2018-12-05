@@ -1,32 +1,23 @@
 <xml>
 
 <dir>
-<title>Filmes</title>
-<link>https://raw.githubusercontent.com/fernandobrum/xml/master/menu_filmes.xml</link>
+<title>Filmes (géneros)</title>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/genero_filmes.xml</link>
+</link>
 </dir>
 
 <dir>
-<title>Séries</title>
-<link>https://raw.githubusercontent.com/fernandobrum/xml/master/menu_series.xml</link>
+<title>Séries (géneros)</title>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/genero_series.xml</link>
 </dir>
-  
+
 <dir>
-<title>Música</title>
-<link>https://raw.githubusercontent.com/fernandobrum/xml/master/menu_musica.xml</link>
-</dir>
-  
-<dir>
-<title>Anos</title>
+<title>Filmes por Anos</title>
 <link>https://raw.githubusercontent.com/fernandobrum/xml/master/anos_filmes.xml</link>
 </dir>
 
 <dir>
-<title>Produtoras de filmes</title>
-<link>https://raw.githubusercontent.com/fernandobrum/xml/master/produtoras_filmes.xml</link>
-</dir>
-
-<dir>
-<title>Pesquisa na TMDB</title>
+<title>Pesquisar</title>
 <tmdb>search</tmdb>
 </dir>
 
