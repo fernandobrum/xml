@@ -2,27 +2,27 @@
 
 <dir>
 <title>Filmes</title>
-<link>file://menu_filmes.xml</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/menu_filmes.xml</link>
 </dir>
 
 <dir>
 <title>Séries</title>
-<link>file://menu_series.xml</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/menu_series.xml</link>
 </dir>
   
 <dir>
 <title>Música</title>
-<link>file://menu_musica.xml</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/menu_musica.xml</link>
 </dir>
   
 <dir>
 <title>Anos</title>
-<link>file://anos_filmes.xml</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/anos_filmes.xml</link>
 </dir>
 
 <dir>
 <title>Produtoras de filmes</title>
-<link>file://produtoras_filmes.xml</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/produtoras_filmes.xml</link>
 </dir>
 
 <dir>
@@ -32,12 +32,12 @@
 
 <dir>
 <title>[LIGHT][COLOR red][B][I]Artur Brum[/I][/B][/COLOR][/LIGHT]</title>
-<link>https://pastebin.com/raw/QKxsG1UQ</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/arturbrum.xml</link>
 </dir>
   
 <dir>
 <title>[COLOR yellow][B][I]Luisinha[/I][/B][/COLOR]</title>
-<link>https://pastebin.com/raw/k2HJend2</link>
+<link>https://raw.githubusercontent.com/fernandobrum/xml/master/filhota.xml</link>
 </dir>
 						  
 <plugin>
