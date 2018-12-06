@@ -3,3 +3,14 @@
 <link>https://www.popcornflix.com/watch/channel/actionthrillers/movie/18-wjd21hg9vqzp-tactical-force</link>
 <thumbnail>http://www.aaaedinburgh.co.uk/wp-content/uploads/2015/11/the19751.png</thumbnail>
 </item>
+
+<plugin>
+<title>Título da categoria Genres e do Exodus adicionada aos favoritos e passada para aqui</title>
+<link>ActivateWindow(10025,&quot;plugin://plugin.video.exodusredux/?action=movieGenres&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+
+<favourite name="Genres" thumb="C:\Users\FB\AppData\Roaming\Kodi\addons\script.exodusredux.artwork\resources\media\exodus
+\genres.png">ActivateWindow(10025,&quot;plugin://plugin.video.exodusredux/?action=movieGenres&quot;,return)</favourite>
