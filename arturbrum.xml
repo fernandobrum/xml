@@ -6,6 +6,6 @@
 
 <plugin>
 <title>Título da categoria Genres e do Exodus adicionada aos favoritos e passada para aqui</title>
-<Link>ActivateWindow(10025,&quot;plugin://plugin.video.exodusredux/?action=movieGenres&quot;)</link>
+<Link>plugin://plugin.video.exodusredux/</link>
 <thumbnail>C:\Users\FB\AppData\Roaming\Kodi\addons\script.exodusredux.artwork\resources\media\exodus\genres.png</thumbnail>
 </plugin>
